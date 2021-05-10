@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
+Scratch biedt de mogelijkheid om opmerkingen te schrijven bij je eigen en andermans projecten. Als je niet wilt dat mensen opmerkingen schrijven bij je project, moet je opmerkingen uitschakelen.
 
-![The 'Commenting off' slider above the 'Comments' box.](images/comments-off.png){:width="300px"}
+![De schuifregelaar 'Commentaar uit' boven het vak 'Opmerkingen'.](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment.
+Als je je goed en veilig voelt om mensen toe te staan opmerkingen bij je project te schrijven, kun je zelf de eerste opmerking achterlaten.
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" into the 'Comments' box. The 'Commenting on' slider is on the right-hand side and is turned from grey to green.](images/add_comments.gif)
+![Typ "Dit is mijn lopende kat animatie" in het vak 'Opmerkingen'. De schuifregelaar 'Commentaar aan' bevindt zich aan de rechterkant en is van grijs naar groen veranderd.](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking on the blue 'Post' button below the comment to post it.](images/add_comments.png){:width="300px"}
+![Klik op de blauwe 'Plaats' knop onder de opmerking om deze te plaatsen.](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a project or comment is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button on the Project Page to let Scratch know about it.
+Als je denkt dat een project of opmerking gemeen, beledigend, te gewelddadig of anderszins ongepast is, klik op de **Melden** knop op de projectpagina om Scratch hiervan op de hoogte te stellen.
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![De 'Melden' knop gemarkeerd.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so you know how you and others can maintain a friendly and creative community.
+Lees de [Scratch Community richtlijnen](https://scratch.mit.edu/community_guidelines){:target="_blank"} zodat je weet hoe jij en anderen een vriendelijke en creatieve gemeenschap kunnen onderhouden.
