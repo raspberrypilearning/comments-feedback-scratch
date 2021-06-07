@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
+يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق.
 
-![The 'Commenting off' slider above the 'Comments' box.](images/comments-off.png){:width="300px"}
+![شريط التمرير "تعليق" أعلى مربع "التعليقات".](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment.
+إذا كنت سعيدًا وتشعر بالأمان للسماح للأشخاص بكتابة تعليقات على مشروعك ، فيمكنك ترك التعليق الأول.
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" into the 'Comments' box. The 'Commenting on' slider is on the right-hand side and is turned from grey to green.](images/add_comments.gif)
+![كتابة "هنا الرسم المتحرك لقطتي المتحركة" في مربع "التعليقات". يوجد شريط التمرير "التعليق على" على الجانب الأيمن ويتحول من الرمادي إلى الأخضر.](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking on the blue 'Post' button below the comment to post it.](images/add_comments.png){:width="300px"}
+![النقر على زر "نشر" الأزرق أسفل التعليق لنشره.](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a project or comment is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button on the Project Page to let Scratch know about it.
+إذا كنت تعتقد أن مشروعًا أو تعليقًا لئيماً أو مهينًا أو عنيفًا للغاية أو غير ملائم بأي طريقة أخرى ، فانقر فوق **إبلاغ** في صفحة المشروع لإعلام سكراتش بذلك.
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![تم تمييز الزر "إبلاغ".](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so you know how you and others can maintain a friendly and creative community.
+اقرأ [إرشادات مجتمع سكراتش](https://scratch.mit.edu/community_guidelines){: target = "_ blank"} حتى تعرف كيف يمكنك أنت والآخرون الحفاظ على مجتمع ودي ومبدع.
