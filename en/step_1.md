@@ -16,7 +16,7 @@ If you are happy and feel safe to allow people to write comments on your project
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
 
 ![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
 
