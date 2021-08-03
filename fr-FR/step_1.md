@@ -1,23 +1,23 @@
-Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires.
+Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
 
-![Le curseur « Commentaire désactivé » au-dessus de la case « Commentaires ».](images/comments-off.png){:width="300px"}
+![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
 
-Si tu es heureux et que tu te sens à l'aise pour permettre aux gens d'écrire des commentaires sur ton projet, tu peux laisser le premier commentaire.
+If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
 
 --- no-print ---
 
-![Tape "Voici mon animation de chat qui marche" dans la case « Commentaires ». Le curseur « Commenter » se trouve sur le côté droit et passe du gris au vert.](images/add_comments.gif)
+![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Cliquer sur le bouton bleu « Publier » sous le commentaire pour le publier.](images/add_comments.png){:width="300px"}
+![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-Si tu penses qu'un projet ou un commentaire est méchant, insultant, trop violent ou inapproprié, clique sur le bouton **Signaler un problème** sur la page du projet pour en informer Scratch.
+If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
 
 ![Le bouton « Signaler un problème » en surbrillance.](images/add_report.png){:width="250px"}
 
-Lis le [règlement de la communauté Scratch](https://scratch.mit.edu/community_guidelines){:target="_ blank"} pour savoir comment toi et les autres pouvez maintenir une communauté conviviale et créative.
+Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
