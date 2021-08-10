@@ -1,23 +1,23 @@
-يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق. لإيقاف تشغيل التعليق ، انتقل إلى صفحة المشروع واضبط شريط التمرير أعلى مربع **تعليقات** على ** إيقاف التعليق**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![شريط التمرير أعلى مربع "التعليقات" في موقع "إيقاف التعليق". تظهر رسالة تقول "عذرًا ، تم إيقاف نشر التعليقات لهذا المشروع.](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+إذا كنت سعيدًا وتشعر بالأمان للسماح للأشخاص بكتابة تعليقات على مشروعك ، فيمكنك ترك التعليق الأول.
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![كتابة "ها صورة متحركة لقطتي " في مربع "التعليقات" ، ثم النقر فوق الزر الأزرق "نشر" أسفل التعليق لنشره. يوجد شريط التمرير أعلى مربع "التعليقات" في موضع "التعليق على".](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![النقر على زر "النشر" الأزرق أسفل التعليق لنشره. يوجد شريط التمرير أعلى مربع "التعليقات" في موضع "التعليق على".](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+إذا كنت تعتقد أن مشروعًا أو تعليقًا لئيماً أو مهينًا أو عنيفًا للغاية أو غير ملائم بأي طريقة أخرى ، فانقر فوق **إبلاغ** في صفحة المشروع لإعلام فريق سكراتش بذلك. للإبلاغ عن تعليق ، انقر فوق **إبلاغ** أعلى التعليق. للإبلاغ عن مشروع ، انقر فوق **تقرير** في صفحة المشروع:
 
 ![تم تمييز الزر "إبلاغ".](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+اقرأ [إرشادات مجتمع سكراتش](https://scratch.mit.edu/community_guidelines){:target="_blank"} حتى تعرف كيف يمكنك أنت والآخرون الحفاظ على مجتمع ودي ومبدع.
