@@ -1,23 +1,23 @@
-Το Scratch παρέχει τη δυνατότητα σχολιασμού τόσο των έργων σου όσο και των έργων άλλων. Αν δεν θες να επιτρέψεις σε άλλους να σχολιάζουν το έργο σου, θα πρέπει να απενεργοποιήσεις τα σχόλια. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Το Scratch παρέχει τη δυνατότητα σχολιασμού τόσο των έργων σου όσο και των έργων άλλων. Αν δεν θες να επιτρέψεις σε άλλους να σχολιάζουν το έργο σου, θα πρέπει να απενεργοποιήσεις τα σχόλια. Για να απενεργοποιήσεις τον σχολιασμό, πήγαινε στη Σελίδα Έργου και όρισε το διακόπτη πάνω από το πλαίσιο **Σχόλια** στην επιλογή **Ανενεργός Σχολιασμός**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Ο διακόπτης πάνω από το πλαίσιο "Σχόλια" βρίσκεται στη θέση "Ανενεργός Σχολιασμός". Εμφανίζεται ένα μήνυμα που λέει "Λυπούμαστε, η ανάρτηση σχολίων έχει απενεργοποιηθεί για αυτό το έργο"](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+Εάν είσαι ευχαριστημένος και αισθάνεσαι ασφαλής να επιτρέψεις σε άλλους να γράψουν σχόλια για το έργο σου, μπορείς να αφήσεις το πρώτο σχόλιο:
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![Πληκτρολογώντας "Ακολουθεί η κινούμενη εικόνα της γάτας μου που περπατά" στο πλαίσιο "Σχόλια" και, στη συνέχεια, κάνοντας κλικ στο μπλε κουμπί "Δημοσίευση" κάτω από το σχόλιο για να δημοσιευτεί. Ο διακόπτης πάνω από το πλαίσιο "Σχόλια" βρίσκεται στη θέση "Ενεργός Σχολιασμός".](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![Κάνοντας κλικ στο μπλε κουμπί «Δημοσίευση» κάτω από το σχόλιο για να δημοσιευτεί. Ο διακόπτης πάνω από το πλαίσιο «Σχόλια» βρίσκεται στη θέση «Ενεργός Σχολιασμός».](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+Εάν πιστεύεις ότι ένα σχόλιο ή ένα έργο είναι κακό, προσβλητικό, πολύ βίαιο ή ακατάλληλο, κάνε κλικ στο κουμπί **Αναφορά** στη σελίδα του έργου για να ενημερώσεις την ομάδα του Scratch σχετικά με αυτό. Για να αναφέρεις ένα σχόλιο, κάνε κλικ στο κουμπί **Αναφορά** πάνω από το σχόλιο. Για να αναφέρεις ένα έργο, κάνε κλικ στο κουμπί **Αναφορά** στη σελίδα του έργου:
 
 ![Το κουμπί "Αναφορά" επισημασμένο.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+Διάβασε τις [Οδηγίες της Κοινότητας Scratch](https://scratch.mit.edu/community_guidelines){:target="_ blank"}, ώστε να γνωρίζεις πώς εσύ και άλλοι μπορείτε να διατηρήσετε μια φιλική και δημιουργική κοινότητα.
