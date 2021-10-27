@@ -1,8 +1,8 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+ಸ್ಕ್ರಾಚ್ ನಿಮ್ಮ ಮತ್ತು ಇತರರ ಯೋಜನೆಗಳ ಬಗ್ಗೆ ಕಾಮೆಂಟ್ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಒದಗಿಸುತ್ತದೆ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ಜನರು ಕಾಮೆಂಟ್ ಮಾಡದಂತೆ ಮಾಡಲು ಕಾಮೆಂಟ್ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ನಿಷ್ಕ್ರಯಗೊಳಿಸಬೇಕು. ಕಾಮೆಂಟ್ ಆಫ್ ಮಾಡಲು, **Comments** ಬಾಕ್ಸ್ ಮೇಲೆ ಇರುವ **Commenting off** ಕಡೆಗೆ ಸ್ಲೈಡ ಮಾಡಿ:
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+ನಿಮ್ಮ ಯೋಜನೆಯಲ್ಲಿ ಜನರು ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಬರೆಯಲು ಅನುಮತಿಸಲು ನೀವು ಸಂತೋಷವಾಗಿದ್ದರೆ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿ ಭಾವಿಸಿದರೆ, ನೀವು ಮೊದಲ ಕಾಮೆಂಟ್ ಅನ್ನು ಬಿಡಬಹುದು:
 
 --- no-print ---
 
@@ -16,8 +16,8 @@ If you are happy and feel safe to allow people to write comments on your project
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+ಕಾಮೆಂಟ್ ಅಥವಾ ಪ್ರಾಜೆಕ್ಟ್ ಅರ್ಥಹೀನ, ಅವಮಾನಕರ, ತುಂಬಾ ಹಿಂಸಾತ್ಮಕ ಅಥವಾ ಸೂಕ್ತವಲ್ಲ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ಸ್ಕ್ರಾಚ್ ತಂಡಕ್ಕೆ ಅದರ ಬಗ್ಗೆ ತಿಳಿಸಲು **Report** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ಕಾಮೆಂಟ್ ಅನ್ನು ವರದಿ ಮಾಡಲು, ಕಾಮೆಂಟ್ ಮೇಲೆ ಇರುವ **Report** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ಪೂರ್ತಿ ಯೋಜನೆಯನ್ನು ವರದಿ ಮಾಡಲು, ಪ್ರಾಜೆಕ್ಟ್ ಪುಟದ ಮೇಲೆ **Report** ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ:
 
 ![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+[Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} ಅನ್ನು ಓದಿ ಆದ್ದರಿಂದ ನಿಮಗೆ ಮತ್ತು ಇತರರಿಗೆ ಸ್ನೇಹಿ ಮತ್ತು ಸೃಜನಶೀಲ ಸಮುದಾಯವನ್ನು ನಿರ್ವಹಿಸುವುದು ಹೀಗೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ.
