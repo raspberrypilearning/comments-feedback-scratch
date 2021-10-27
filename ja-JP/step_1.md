@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratchは自分や他の人のプロジェクトにコメントする機能を提供しています。 他の人にプロジェクトへのコメントを許可したくない場合は、コメントをオフにする必要があります。 コメントをオフにするには、**コメント**ボックスの上のスライダを「**コメントはオフです**」に設定します。
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![「コメント」ボックスの上のスライダーは「コメントはオフです」の位置にあります。 "申し訳ありませんが、このプロジェクトのコメント投稿はオフに設定されています。"というメッセージが表示されます。](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+人々にあなたのプロジェクトへコメントすることを喜んで不安なく許可できると感じるならば、最初のコメントを残すことができます。
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![「コメント」ボックスに"ネコが歩くアニメーションです"と入力します。 し、コメントの下にある青い「投稿する」ボタンをクリックして投稿します。 「コメント」ボックスの上のスライダーは「コメントはオンです」の位置にあります。](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![コメントの下にある青い「投稿する」ボタンをクリックして投稿します。 「コメント」ボックスの上のスライダーは「コメントはオンです」の位置にあります。](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+コメントやプロジェクトが下品だったり、侮辱的だったり、非常に暴力的だったり、あるいは不適切だと思う場合は、**報告**ボタンをクリックしてScratchチームに知らせてください。 コメントを報告するにはコメントの上にある**報告**ボタンをクリックします。 プロジェクトを報告するにはプロジェクトページにある**報告**ボタンをクリックします。
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![「報告」ボタンが強調表示されています。](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+[Scratchコミュニティーのガイドライン](https://scratch.mit.edu/community_guidelines){:target="_ blank"}を読んで、自分や他の人が友好的で創造的なコミュニティをどうやって維持するのか理解してください。
