@@ -1,4 +1,4 @@
-Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes desactivar los comentarios. Para desactivar los comentarios, ve a la Página del Proyecto y fija el control deslizante sobre el cuadro **Comentarios**en la posición **Comentarios desactivados**:
+Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes desactivar los comentarios. Para desactivar los comentarios, ve a la Página del Proyecto y fija el control deslizante sobre el cuadro **Comentarios** en la posición **Comentarios desactivados**:
 
 ![El control deslizante sobre el cuadro 'Comentarios' está en la posición 'Comentarios desactivados'. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
 
