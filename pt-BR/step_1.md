@@ -1,4 +1,4 @@
-O Scratch permite comentar em seu próprio projeto e em projetos dos outros. Se você não quiser permitir que as pessoas comentem seu projeto, desative os comentários. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
 
@@ -18,6 +18,6 @@ If you are happy and feel safe to allow people to write comments on your project
 
 If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
 
-![O botão "Denunciar" destacado.](images/add_report.png){:width="250px"}
+![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
 
 Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
