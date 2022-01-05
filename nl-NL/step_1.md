@@ -4,13 +4,13 @@ Scratch biedt de mogelijkheid om opmerkingen te schrijven bij je eigen en anderm
 
 Als je je goed en veilig voelt om mensen toe te staan opmerkingen bij je project te schrijven, kun je zelf de eerste opmerking achterlaten:
 
---- no-print ---
+Dit project behandelt elementen uit de volgende onderdelen van de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 ![Typ "Dit is mijn lopende kat animatie" in het vak 'Opmerkingen', en klik op de blauwe 'Plaats' knop onder de opmerkingen om je reactie te plaatsen. De schuifregelaar 'Opmerkingen aan' bevindt zich aan de rechterkant en is van grijs naar groen veranderd.](images/add_comments.gif)
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![Klik op de blauwe 'Plaats' knop onder de opmerking om deze te plaatsen. De schuifregelaar 'Opmerkingen aan' bevindt zich aan de rechterkant en is van grijs naar groen veranderd.](images/add_comments.png){:width="300px"}
 
