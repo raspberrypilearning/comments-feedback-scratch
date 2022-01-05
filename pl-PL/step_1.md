@@ -10,7 +10,7 @@ If you are happy and feel safe to allow people to write comments on your project
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
 
