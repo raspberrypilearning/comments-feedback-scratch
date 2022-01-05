@@ -1,23 +1,21 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratch आपके और अन्य लोगों की प्रोजेक्ट पर टिप्पणी करने की क्षमता प्रदान करता है। यदि आप लोगों को अपने प्रोजेक्ट पर टिप्पणी करने की अनुमति नहीं देना चाहते हैं, तो आपको टिप्पणी करना बंद कर देना चाहिए। टिप्पणी करना बंद करने के लिए, परियोजना पृष्ठ पर जाएँ और **</0Comments> बॉक्स के **Commenting off ** करें:</p>
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+!['टिप्पणी' बॉक्स के ऊपर का स्लाइडर 'टिप्पणी बंद' स्थिति में है। "क्षमा करें, इस प्रोजेक्ट के लिए टिप्पणी पोस्टिंग बंद कर दिया गया है, यह कहते हुए एक संदेश दिखाया गया है।"](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+यदि आप खुश हैं और लोगों को आपकी प्रोजेक्ट पर टिप्पणी लिखने की अनुमति देकर सुरक्षित महसूस करते हैं, तो आप पहली टिप्पणी छोड़ सकते हैं:
 
---- no-print ---
-
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![टाइप करना "यहां 'टिप्पणियां' बॉक्स में मेरी वॉकिंग कैट एनिमेशन" है, फिर इसे पोस्ट करने के लिए टिप्पणी के नीचे नीले 'पोस्ट' बटन पर क्लिक करें। 'टिप्पणी' बॉक्स के ऊपर का स्लाइडर 'टिप्पणी करने' की स्थिति में है।](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![इसे पोस्ट करने के लिए टिप्पणी के नीचे नीले 'पोस्ट' बटन पर क्लिक करें। 'टिप्पणी' बॉक्स के ऊपर का स्लाइडर 'टिप्पणी करने' की स्थिति में है।](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+अगर आपको लगता है कि कोई टिप्पणी या प्रोजेक्ट मतलबी, अपमानजनक, बहुत हिंसक या अन्यथा अनुचित है, तो Scratch टीम को इसके बारे में बताने के लिए **Report** बटन पर क्लिक करे | किसी टिप्पणी की रिपोर्ट करने के लिए, टिप्पणी के **Report** बटन पर क्लिक करें। किसी प्रोजेक्ट की रिपोर्ट करने के लिए, **Report** बटन पर क्लिक करें:
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+!['रिपोर्ट' बटन हाइलाइट किया गया।](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+[Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} पढ़ें ताकि आप जान सकें कि आप और अन्य लोग एक मित्रवत और रचनात्मक समुदाय को कैसे बनाए रख सकते हैं।
