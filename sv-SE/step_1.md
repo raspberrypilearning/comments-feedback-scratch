@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratch gör det möjligt att kommentera på dina egna och andras projekt. Om du inte vill att andra ska kunna kommentera på ditt projekt bör du stänga av kommentarer. För att stänga av kommentarer, gå in på projektsidan och ställ in reglaget ovanför rutan **Kommentarer** till **Kommentarer av**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Reglaget ovanför rutan "Kommentarer" är i läget "Kommenterar av". Ett meddelande visas som säger "Tyvärr, kommentarer har stängts av för detta projekt."](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+Om du är glad och känner dig okej med att låta andra skriva kommentarer på ditt projekt kan du lämna den första kommentaren:
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![Skriv "Här är min promenerande kattanimering" i "Kommentar"-rutan och klicka sedan på den blå "skicka"-knappen under kommentaren för att lägga upp den. Reglaget ovanför rutan "Kommentarer" är i läget "Kommenterar på".](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![Klicka på den blå "Skicka"-knappen under kommentaren för att lägga upp den. Reglaget ovanför rutan "Kommentarer" är i läget "Kommenterar på".](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+Om du tycker att en kommentar eller ett projekt är elakt, förolämpande, för våldsamt eller på annat sätt olämpligt, klicka på **Rapportera**-knappen för att informera Scratch-teamet om det. För att rapportera en kommentar, klicka på **Rapportera**knappen över kommentaren. För att rapportera ett projekt, klicka på **Rapportera**knappen på projektsidan:
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+!['Rapportera'-knappen är markerad.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+Läs [Scratch Användarvilkor](https://scratch.mit.edu/community_guidelines){:target="_blank"} så att du vet hur du och andra kan upprätthålla en vänlig och kreativ gemenskap.
