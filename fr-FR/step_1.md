@@ -1,4 +1,4 @@
-Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires. Pour désactiver les commentaires, va à la page Projet et règle le curseur au-dessus de la case **Commentaires** **Commentaire désactivé** :
+Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires. Pour désactiver les commentaires, va à la page Projet et règle le curseur au-dessus de la case **Commentaires** sur **Commentaire désactivé** :
 
 ![Le curseur « Commentaire désactivé » au-dessus de la case « Commentaires ». Un message s'affiche indiquant « Désolé, mais l'envoi de commentaires a été désactivé pour ce projet.](images/comments-off.png){:width="300px"}
 
