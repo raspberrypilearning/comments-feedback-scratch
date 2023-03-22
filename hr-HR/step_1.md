@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratch pruža mogućnost komentiranja vlastitih i tuđih projekata. Ako ne želiš dopustiti ljudima da komentiraju tvoj projekt, moraš isključiti opciju komentiranja. Da isključiš opciju komentiranja, idi na stranicu projekta i postavi klizač iznad okvira **Komentari** na **Commenting off (Komentiranje isključeno)**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Klizač iznad okvira „Komentari” postavljen je na opciju „Commenting off (Komentiranje isključeno)”. Prikazuje se poruka "Commenting for this project has been turned off (Objavljivanje komentara je isključeno za ovaj projekt)."](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+Ako se osjećaš sigurno i želiš dopustiti ljudima da komentiraju tvoj projekt, možeš ostaviti prvi komentar:
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![Upisivanje "Evo moje animacije mačke koja hoda" u okvir „Komentari”, a zatim klikanje na plavi gumb „Post (Objavi)” ispod komentara da se komentar objavi. Klizač iznad okvira „Komentari” postavljen je na opciju „Commenting on (Komentiranje uključeno)”.](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![Klikanje na plavi gumb „Post (Objavi)” ispod komentara da se komentar objavi. Klizač iznad okvira „Komentari” postavljen je na opciju „Commenting on (Komentiranje uključeno)”.](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+Ako misliš da je komentar ili projekt zločest, uvredljiv, previše nasilan ili na neki drugi način neprikladan, klikni na gumb **Prijavite** da o tome obavijestiš Scratch tim. Da prijaviš komentar, klikni na gumb **Prijavite** iznad komentara. Da prijaviš projekt, klikni na gumb **Prijavite** na stranici projekta:
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![Istaknut gumb „Prijavite”.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+Pročitaj [Smjernice Scratch zajednice](https://scratch.mit.edu/community_guidelines){:target="_blank"} da saznaš kako ti i drugi ljudi možete održati prijateljsku i kreativnu zajednicu.
