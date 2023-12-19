@@ -6,7 +6,7 @@ Jeśli jesteś zadowolony i czujesz się bezpiecznie, pozwalając innym na pisan
 
 --- no-print ---
 
-![Wpisz "Oto animacja mojego chodzącego kota" w polu „Komentarze”, a następnie kliknij niebieski przycisk „Opublikuj” pod komentarzem, aby go opublikować. Suwak nad polem „Komentarze” znajduje się w pozycji „Komentowanie włączone”.](images/add_comments.gif)
+![Wpisz "Oto animacja mojego chodzącego kota" w polu „Komentarze”, a następnie kliknij niebieski przycisk „Opublikuj” pod komentarzem, aby go opublikować. Wpisz "Oto animacja mojego chodzącego kota" w polu „Komentarze”, a następnie kliknij niebieski przycisk „Opublikuj” pod komentarzem, aby go opublikować.](images/add_comments.gif)
 
 --- /no-print ---
 
