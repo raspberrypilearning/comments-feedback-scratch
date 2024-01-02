@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+Scratch dà la possibilità di commentare i tuoi progetti e quelli di altre persone. Se non vuoi consentire alle persone di commentare il tuo progetto, puoi disattivare i commenti. Per disattivare i commenti, vai alla Pagina del Progetto e sposta il cursore sopra la casella **Commenti** su **Commenti disattivati**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Il cursore sopra la casella 'Commenti' è nella posizione 'Commenti disattivati'. Viene visualizzato un messaggio che dice "L'invio di commenti è stato disabilitato per questo progetto."](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+Se sei soddisfatto e ti senti al sicuro permettendo alle persone di scrivere commenti sul tuo progetto, puoi lasciare il tuo primo commento:
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![Digitando "Ecco l'animazione del mio gatto che cammina" nella casella 'Commenti', poi facendo clic sul pulsante blu 'Pubblica' sotto il commento per pubblicarlo. Il cursore sopra la casella 'Commenti' è nella posizione 'Commenti attivati'.](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![Facendo clic sul pulsante 'Pubblica' sotto il commento per pubblicarlo. Il cursore sopra la casella 'Commenti' è nella posizione 'Commenti attivati'.](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+Se ritieni che un commento o un progetto sia negativo, offensivo, troppo violento o inappropriato, fai clic sul pulsante **Segnala** per comunicarlo allo Scratch Team. Per segnalare un commento, fai clic sul pulsante **Segnala** sopra il commento. Per segnalare un progetto, fai clic sul pulsante **Segnala** sulla Pagina del Progetto:
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![Il pulsante 'Segnala' evidenziato.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+Leggi le [Linee guida della comunità di Scratch](https://scratch.mit.edu/community_guidelines){:target="_blank"} in modo da sapere come, tu e gli altri, potete mantenere una comunità amichevole e creativa.
