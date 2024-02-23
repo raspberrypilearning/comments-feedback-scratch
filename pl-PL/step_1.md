@@ -10,7 +10,7 @@ Jeśli jesteś zadowolony i czujesz się bezpiecznie, pozwalając innym na pisan
 
 --- /no-print ---
 
---- /challenge ---
+--- print-only ---
 
 ![Kliknij niebieski przycisk „Opublikuj” pod komentarzem, aby go opublikować. Suwak nad polem „Komentarze” znajduje się w pozycji „Komentowanie włączone”.](images/add_comments.png){:width="300px"}
 
