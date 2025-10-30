@@ -1,23 +1,23 @@
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, go to the Project Page and set the slider above the **Comments** box to **Commenting off**:
+UScratch ukunika isakhono sokuba ukwanzi ukugqabaza kumsebenzi wakho kunye nowabanye abantu. Ukuba awufuni ukuvumela abantu banike amagqabantshintshi kwiprojekthi yakho, kufanele ucime isakhono sabo sokunik' ugqabazo. Ukucima isakhono samagqabantshintshi, yiya kwiPhepha leProjekthi kwaye utyibilizise isityibilizisi esingaphezulu kwebhokisi yama-**Magqabantshintshi** ibengu **Cima Magqabantshintshi**:
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Isityibilizisi esingentla kwebhokisi 'Magqabantshintshi' siveze u-'Cima Magqabantshintshi'. Kuvezwe umyalezo othi "Uxolo, ukuthunyelwa kwamagqabantshintshi kucinyiwe kule projekthi."](images/comments-off.png){:width="300px"}
 
-If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment:
+Ukuba uziva ukhuselekile ukuvumela abantu ukuba babhale izimvo kwiprojekthi yakho, unobhala amagqabantshintshi okuqala:
 
 --- no-print ---
 
-![Typing "Here's my walking cat animation" in the 'Comments' box, then clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.gif)
+![Chwetheza "Nanku upopayi wekati yam ehambayo" kwibhokisi ethi 'Amagqabantshintshi', emva koko cofa iqhosha 'lePosi' eluhlaza okwesbhakabhaka ngaphantsi kwegqabantshintshi ukuze uyithumele. Isityibilizisi esingentla kwebhokisi 'Magqabantshintshi' siveze u-'Layita Magqabantshintshi.'](images/add_comments.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Clicking the blue 'Post' button below the comment to post it. The slider above the 'Comments' box is in the 'Commenting on' position.](images/add_comments.png){:width="300px"}
+![Cofa iqhosha 'lePosi' eluhlaza okwesbhakabhaka ngaphantsi kwegqabantshintshi ukuze uyithumele. Isityibilizisi esingentla kwebhokisi 'Magqabantshintshi' siveze u-'Layita Magqabantshintshi.'](images/add_comments.png){:width="300px"}
 
 --- /print-only ---
 
-If you think a comment or project is mean, insulting, too violent, or otherwise inappropriate, click the **Report** button to let the Scratch Team know about it. To report a comment, click the **Report** button above the comment. To report a project, click the **Report** button on the Project Page:
+Ukuba ucinga ukuba uluvo okanye iprojekthi ikhohlakele, iyathuka, inobundlobongela kakhulu, okanye ayifanelekanga, cofa iqhosha **Xelo** ukwazisa iQela likaScratch ngayo. Ukuze uxele ngezimvo, cofa iqhosha elithi **Xela** ngaphezulu kwegqabantshintshi. Ukuxela iprojekthi, cofa iqhosha **Xelo** kwiPhepha leProjekthi:
 
-![The 'Report' button highlighted.](images/add_report.png){:width="250px"}
+![Iqhosha elithi 'Xela' liphawuliwe.](images/add_report.png){:width="250px"}
 
-Read the [Scratch Community Guidelines](https://scratch.mit.edu/community_guidelines){:target="_blank"} so that you know how you and others can maintain a friendly and creative community.
+Funda [iziKhokelo zoLuntu lukaScratch](https://scratch.mit.edu/community_guidelines){:target="_blank"} ukuze wazi ukuba wena nabanye ninokugcina njani uluntu olunobuhlobo kunye nobuchule.
